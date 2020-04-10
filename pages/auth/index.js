@@ -6,7 +6,6 @@ const index = (props) => {
         <div>
             <h1>Auth Page Of - { props.appName }</h1>
             <User name={'Itay'} age={25}/>
-            
         </div>
     );
 };
